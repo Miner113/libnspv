@@ -13,7 +13,7 @@ Komodo-compatible Smart Chains including the KMD main chain.
 
 
 What is libbtc?
-----------------
+
 
 Libbtc is a very portable C library for creating and manipulating bitcoin data structures and interacting with the p2p network.
 
